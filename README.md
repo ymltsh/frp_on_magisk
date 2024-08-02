@@ -1,0 +1,2 @@
+# frp_on_magisk
+在拥有magisk的安卓设备上获得稳定的frp体验
