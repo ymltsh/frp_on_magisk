@@ -1,0 +1,15 @@
+user = "user"
+
+serverAddr = "ip"
+serverPort = 7100
+
+auth.method = "token"
+auth.token = "token"
+loginFailExit = false
+
+[[proxies]]
+name = "adb5"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 5555
+remotePort = 5555

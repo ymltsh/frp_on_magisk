@@ -1,0 +1,7 @@
+# id 只能填 字母 数字 半角符号
+id=andfrp
+name=frp_on_magisk
+version=v1
+versionCode=1
+author=云衿
+description=试图在拥有root的设备上获得稳定的frp体验
